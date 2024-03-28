@@ -18,14 +18,14 @@ google_analytics_id      :  # get google_analytics_id from https://analytics.goo
 # get google_site_verification from https://search.google.com/search-console/about
 google_site_verification :  "hAQWOy7hdAwpsNVm4Sf7zN4VSGBt7rCjIOLLE5A0jcA"
 # get bing_site_verification from https://www.bing.com/webmasters/about
-bing_site_verification   :  
+bing_site_verification   :  "1103883B477B26D81782E71628166389"
 # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 baidu_site_verification  :  
 
 # Site Author
 author:
   name             : "许瑞晗 | Ruihan Xu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Peking University"
   location         : "Beijing, China"
   employer         :
