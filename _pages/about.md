@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
+I am a PhD student at National Key Laboratory for Multimedia Information Processing.
 My research interest includes computer vision and neural architecture design. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=VOdUNmsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <!-- <a href='https://scholar.google.com/citations?user=VOdUNmsAAAAJ'>google scholar citations <strong><span id='total_cit'>100+</span></strong></a>. -->
@@ -42,6 +41,16 @@ My research interest includes computer vision and neural architecture design. I 
 </div> -->
 
 - [Parcnetv2: Oversized kernel with enhanced attention](https://github.com/XuRuihan/ParCNetV2), Ruihan Xu, Haokui Zhang, Wenze Hu, Shiliang Zhang, Xiaoyu Wang, **ICCV 2023**
+
+- [Simulation and machine learning methods for ion-channel structure determination, mechanistic studies and drug design](), Zhengdan Zhu, Zhenfeng Deng, Qinrui Wang, Yuhang Wang, Duo Zhang, Ruihan Xu, Lvjun Guo, Han Wen, **Frontiers in Pharmacology 2022**.
+
+- [Hieve acm mm grand challenge 2020: Pose tracking in crowded scenes](), Lumin Xu, Ruihan Xu, Sheng Jin, **ACM MM 2020**.
+
+# 📜 Patents
+
+- 基于注意力机制的抗体非定序预测方法和装置, CN114822696B, Issued Apr 18, 2023.
+
+- Training method and device for real space decoder of cryoelectron microscope and electronic equipment, CN114822696B, Filed Dec 27, 2022.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
